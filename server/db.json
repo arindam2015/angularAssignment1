@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Read Angular 5 blog",
+      "text": "Shall do at 6 pm"
+    },
+    {
+      "title": "node.js session",
+      "text": "session will start from tomorrow",
+      "id": 2
+    },
+    {
+      "title": "angular 8 session",
+      "text": "session will start from 20th july",
+      "id": 3
+    },
+    {
+      "title": "java 8 class romm training",
+      "text": "3 days traing",
+      "id": 4
+    },
+    {
+      "title": "spring boot session",
+      "text": "start from tomorrow 1pm",
+      "id": 5
+    },
+    {
+      "title": "java traing",
+      "text": "will start soon",
+      "id": 6
+    },
+    {
+      "title": "Doctor's appointment",
+      "text": "schedule at 8pm",
+      "id": 7
+    }
+  ]
+}

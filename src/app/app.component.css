@@ -1,0 +1,49 @@
+.error-message {
+    color: red;
+    font-weight: bold;
+  }
+  
+.note-container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.note-expansion-panel
+{
+    margin: 0 auto;
+    width: 70vw;
+}
+
+.note-inputs
+{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.noteButton {
+    display: flex;
+    justify-content: center;
+    
+  }
+  .notes-card-container
+{
+    margin: 10vh 15vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.matCards {
+    width: 20vw;
+    margin: 20px;
+  }
+  .mat-card-title{
+    width: 20vw;
+    margin: 20px; 
+  }
+  
+  
